@@ -43,6 +43,9 @@ To get started with the project, follow these steps:
 5. Test the application thoroughly to ensure it meets all acceptance criteria.
 6. Deploy the application to Render using the Render Deployment Guide.
 
+## Deployed Link
+https://pwa-text-editor-q97q.onrender.com/
+
 ## Resources and Dependencies
 
 - [idb package](https://www.npmjs.com/package/idb): Lightweight wrapper around the IndexedDB API.
